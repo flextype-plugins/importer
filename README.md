@@ -1,2 +1,1 @@
-# importer
-Importer plugin for Flextype 
+# Importer Plugin for [Flextype](http://flextype.org/)
