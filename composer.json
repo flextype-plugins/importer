@@ -1,0 +1,28 @@
+{
+    "name": "flextype-plugins/importer",
+    "type": "project",
+    "description": "Site plugin for Flextype",
+    "keywords": ["site", "plugin", "flextype", "php", "html"],
+    "homepage": "https://github.com/flextype",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Romanenko",
+            "email": "hello@romanenko.digital",
+            "homepage": "http://romanenko.digital"
+        }
+    ],
+    "support": {
+      "issues": "https://github.com/flextype/issues"
+    },
+    "require": {
+        "php": ">=7.2.0",
+        "alchemy/zippy": "^0.4.9",
+        "chumper/zipper": "^1.0"
+    },
+    "autoload": {
+        "classmap": [
+            "app"
+        ]
+    }
+}
